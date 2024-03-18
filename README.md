@@ -1,6 +1,6 @@
-![](https://github.com/camilo1962/mYbLoQuE/blob/main/Assets/Graficos/Icono.png)
+![](https://github.com/camilo1962/MySsOpAs/blob/main/Assets/Graficos/MainMenu/Title%20copia.png)
 
 
 > Unity version - 2022.1.0f1
 
-**Update 4/11/23:** Rompecabezas hecho en Unity, según tutorial de CodePlanStudio.
+**Update 4/11/23:** Sopa de letras hecha en Unity, según tutorial de CodePlanStudio.
