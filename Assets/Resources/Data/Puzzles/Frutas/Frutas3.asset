@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Frutas3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - L
+    - E
+    - U
+    - R
+    - I
+    - C
+    - B
+    - J
+    - U
+  - Size: 10
+    Row:
+    - F
+    - L
+    - P
+    - T
+    - P
+    - A
+    - C
+    - A
+    - N
+    - A
+  - Size: 10
+    Row:
+    - P
+    - L
+    - T
+    - Y
+    - H
+    - Z
+    - N
+    - K
+    - A
+    - N
+  - Size: 10
+    Row:
+    - I
+    - C
+    - V
+    - R
+    - O
+    - I
+    - U
+    - L
+    - L
+    - I
+  - Size: 10
+    Row:
+    - S
+    - A
+    - R
+    - M
+    - A
+    - K
+    - Z
+    - F
+    - M
+    - R
+  - Size: 10
+    Row:
+    - T
+    - S
+    - Q
+    - Y
+    - P
+    - M
+    - M
+    - N
+    - E
+    - A
+  - Size: 10
+    Row:
+    - A
+    - T
+    - H
+    - I
+    - G
+    - O
+    - U
+    - Z
+    - N
+    - T
+  - Size: 10
+    Row:
+    - C
+    - A
+    - G
+    - K
+    - L
+    - E
+    - G
+    - Z
+    - D
+    - C
+  - Size: 10
+    Row:
+    - H
+    - N
+    - G
+    - H
+    - Z
+    - T
+    - K
+    - L
+    - R
+    - E
+  - Size: 10
+    Row:
+    - O
+    - A
+    - V
+    - E
+    - L
+    - L
+    - A
+    - N
+    - A
+    - N
+  SearchWords:
+  - Word: NECTARINA
+  - Word: CIRUELA
+  - Word: PACANA
+  - Word: PISTACHO
+  - Word: AVELLANA
+  - Word: ALMENDRA
+  - Word: "CASTA\xD1A"
+  - Word: CACAHUETE
+  - Word: NUEZ
+  - Word: ALTRAMUZ

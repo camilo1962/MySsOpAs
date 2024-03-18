@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Comidas2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - O
+    - R
+    - A
+    - D
+    - A
+    - U
+    - K
+    - R
+    - D
+  - Size: 10
+    Row:
+    - P
+    - S
+    - Y
+    - Q
+    - P
+    - V
+    - S
+    - I
+    - D
+    - A
+  - Size: 10
+    Row:
+    - T
+    - A
+    - S
+    - U
+    - S
+    - H
+    - I
+    - V
+    - N
+    - T
+  - Size: 10
+    Row:
+    - O
+    - R
+    - M
+    - E
+    - E
+    - F
+    - U
+    - D
+    - A
+    - S
+  - Size: 10
+    Row:
+    - E
+    - T
+    - I
+    - S
+    - D
+    - F
+    - Q
+    - C
+    - C
+    - O
+  - Size: 10
+    Row:
+    - T
+    - S
+    - E
+    - O
+    - J
+    - D
+    - O
+    - B
+    - H
+    - G
+  - Size: 10
+    Row:
+    - B
+    - O
+    - L
+    - L
+    - O
+    - S
+    - "\xD1"
+    - "\xD1"
+    - O
+    - N
+  - Size: 10
+    Row:
+    - B
+    - Q
+    - P
+    - Z
+    - M
+    - N
+    - B
+    - N
+    - S
+    - A
+  - Size: 10
+    Row:
+    - U
+    - B
+    - B
+    - P
+    - A
+    - B
+    - E
+    - K
+    - Q
+    - L
+  - Size: 10
+    Row:
+    - "\xD1"
+    - O
+    - "\xD1"
+    - E
+    - P
+    - A
+    - L
+    - A
+    - J
+    - T
+  SearchWords:
+  - Word: SUSHI
+  - Word: BOLLO
+  - Word: LANGOSTA
+  - Word: "\xD1OQUIS"
+  - Word: OSTRAS
+  - Word: NACHOS
+  - Word: TACOS
+  - Word: "JALAPE\xD1O"
+  - Word: KEBAP
+  - Word: QUESO
+  - Word: DORADA
+  - Word: MIEL

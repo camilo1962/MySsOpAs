@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Comidas1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - M
+    - S
+    - A
+    - J
+    - E
+    - T
+    - N
+    - E
+    - L
+  - Size: 10
+    Row:
+    - G
+    - A
+    - Z
+    - Z
+    - I
+    - P
+    - N
+    - A
+    - P
+    - X
+  - Size: 10
+    Row:
+    - V
+    - R
+    - L
+    - K
+    - Q
+    - E
+    - T
+    - O
+    - A
+    - L
+  - Size: 10
+    Row:
+    - S
+    - M
+    - C
+    - M
+    - G
+    - E
+    - Q
+    - M
+    - T
+    - U
+  - Size: 10
+    Row:
+    - R
+    - I
+    - H
+    - S
+    - O
+    - F
+    - M
+    - Y
+    - A
+    - G
+  - Size: 10
+    Row:
+    - F
+    - T
+    - U
+    - A
+    - Z
+    - R
+    - L
+    - E
+    - T
+    - M
+  - Size: 10
+    Row:
+    - I
+    - A
+    - R
+    - R
+    - O
+    - Z
+    - E
+    - P
+    - A
+    - E
+  - Size: 10
+    Row:
+    - C
+    - C
+    - V
+    - S
+    - B
+    - M
+    - T
+    - J
+    - S
+    - Q
+  - Size: 10
+    Row:
+    - H
+    - O
+    - K
+    - P
+    - O
+    - D
+    - I
+    - C
+    - O
+    - C
+  - Size: 10
+    Row:
+    - P
+    - A
+    - S
+    - T
+    - A
+    - H
+    - U
+    - R
+    - J
+    - B
+  SearchWords:
+  - Word: SALMOREJO
+  - Word: PASTA
+  - Word: LENTEJAS
+  - Word: PATATAS
+  - Word: COCIDO
+  - Word: MARMITACO
+  - Word: ARROZ
+  - Word: PAN

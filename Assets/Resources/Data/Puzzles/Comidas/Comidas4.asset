@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Comidas4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - S
+    - A
+    - N
+    - U
+    - T
+    - I
+    - E
+    - C
+    - A
+  - Size: 10
+    Row:
+    - F
+    - R
+    - I
+    - J
+    - O
+    - L
+    - E
+    - S
+    - J
+    - R
+  - Size: 10
+    Row:
+    - L
+    - Z
+    - M
+    - I
+    - B
+    - A
+    - S
+    - A
+    - W
+    - G
+  - Size: 10
+    Row:
+    - A
+    - O
+    - H
+    - C
+    - A
+    - P
+    - Z
+    - A
+    - G
+    - X
+  - Size: 10
+    Row:
+    - U
+    - C
+    - S
+    - A
+    - V
+    - U
+    - J
+    - F
+    - A
+    - O
+  - Size: 10
+    Row:
+    - T
+    - I
+    - Y
+    - A
+    - Z
+    - R
+    - O
+    - Z
+    - T
+    - D
+  - Size: 10
+    Row:
+    - A
+    - S
+    - W
+    - R
+    - K
+    - E
+    - N
+    - S
+    - A
+    - A
+  - Size: 10
+    Row:
+    - O
+    - C
+    - S
+    - I
+    - R
+    - A
+    - M
+    - E
+    - N
+    - G
+  - Size: 10
+    Row:
+    - V
+    - V
+    - Q
+    - Y
+    - K
+    - Z
+    - T
+    - M
+    - "\xD1"
+    - I
+  - Size: 10
+    Row:
+    - O
+    - T
+    - I
+    - R
+    - F
+    - O
+    - V
+    - E
+    - U
+    - H
+  SearchWords:
+  - Word: FRIJOLES
+  - Word: GAZPACHO
+  - Word: PURE
+  - Word: ZORZA
+  - Word: FLAUTA
+  - Word: HUEVOFRITO
+  - Word: KIWI
+  - Word: HIGADO
+  - Word: ACEITUNAS
+  - Word: WASABI
+  - Word: MARISCO
+  - Word: NATA

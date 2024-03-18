@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Deportes2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - P
+    - B
+    - H
+    - X
+    - R
+    - T
+    - E
+    - N
+    - I
+    - S
+  - Size: 10
+    Row:
+    - T
+    - L
+    - J
+    - U
+    - D
+    - O
+    - L
+    - R
+    - K
+    - B
+  - Size: 10
+    Row:
+    - C
+    - R
+    - V
+    - O
+    - P
+    - M
+    - M
+    - E
+    - C
+    - E
+  - Size: 10
+    Row:
+    - G
+    - U
+    - I
+    - "\xD1"
+    - M
+    - O
+    - L
+    - S
+    - Z
+    - J
+  - Size: 10
+    Row:
+    - N
+    - S
+    - N
+    - A
+    - P
+    - E
+    - O
+    - Y
+    - D
+    - A
+  - Size: 10
+    Row:
+    - I
+    - H
+    - S
+    - "\xD1"
+    - T
+    - D
+    - R
+    - R
+    - L
+    - N
+  - Size: 10
+    Row:
+    - L
+    - J
+    - N
+    - O
+    - Z
+    - L
+    - I
+    - D
+    - I
+    - I
+  - Size: 10
+    Row:
+    - R
+    - E
+    - N
+    - Z
+    - S
+    - K
+    - O
+    - R
+    - U
+    - T
+  - Size: 10
+    Row:
+    - U
+    - K
+    - B
+    - O
+    - X
+    - E
+    - O
+    - N
+    - D
+    - A
+  - Size: 10
+    Row:
+    - C
+    - "\xD1"
+    - A
+    - M
+    - I
+    - R
+    - G
+    - S
+    - E
+    - P
+  SearchWords:
+  - Word: SKELETON
+  - Word: TRIATLON
+  - Word: CURLING
+  - Word: TENIS
+  - Word: PATINAJE
+  - Word: TIRO
+  - Word: ESGRIMA
+  - Word: JUDO
+  - Word: REMO
+  - Word: BOXEO

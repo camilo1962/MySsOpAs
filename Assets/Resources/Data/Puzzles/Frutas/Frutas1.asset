@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Frutas1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - F
+    - D
+    - S
+    - B
+    - C
+    - T
+    - N
+    - I
+    - P
+    - U
+    - P
+    - Q
+  - Size: 12
+    Row:
+    - B
+    - R
+    - Z
+    - P
+    - O
+    - F
+    - A
+    - K
+    - O
+    - Q
+    - T
+    - C
+  - Size: 12
+    Row:
+    - C
+    - Z
+    - U
+    - Y
+    - C
+    - V
+    - R
+    - A
+    - M
+    - X
+    - Z
+    - C
+  - Size: 12
+    Row:
+    - A
+    - C
+    - B
+    - T
+    - O
+    - B
+    - A
+    - K
+    - J
+    - M
+    - N
+    - H
+  - Size: 12
+    Row:
+    - R
+    - D
+    - O
+    - S
+    - A
+    - O
+    - N
+    - A
+    - "\xD1"
+    - O
+    - O
+    - I
+  - Size: 12
+    Row:
+    - A
+    - A
+    - E
+    - M
+    - O
+    - P
+    - J
+    - A
+    - D
+    - S
+    - L
+    - R
+  - Size: 12
+    Row:
+    - M
+    - C
+    - E
+    - R
+    - E
+    - Z
+    - A
+    - A
+    - A
+    - J
+    - E
+    - I
+  - Size: 12
+    Row:
+    - B
+    - V
+    - D
+    - R
+    - A
+    - H
+    - V
+    - S
+    - T
+    - A
+    - M
+    - M
+  - Size: 12
+    Row:
+    - O
+    - L
+    - E
+    - M
+    - O
+    - P
+    - C
+    - H
+    - I
+    - I
+    - C
+    - O
+  - Size: 12
+    Row:
+    - L
+    - H
+    - J
+    - O
+    - A
+    - U
+    - R
+    - F
+    - L
+    - O
+    - L
+    - L
+  - Size: 12
+    Row:
+    - A
+    - V
+    - F
+    - V
+    - G
+    - V
+    - Y
+    - K
+    - U
+    - T
+    - N
+    - L
+  - Size: 12
+    Row:
+    - J
+    - E
+    - U
+    - Q
+    - O
+    - C
+    - I
+    - R
+    - A
+    - B
+    - L
+    - A
+  SearchWords:
+  - Word: POMELO
+  - Word: NARANJA
+  - Word: MELON
+  - Word: CARAMBOLA
+  - Word: CHIRIMOLLA
+  - Word: COCO
+  - Word: DATIL
+  - Word: FRUTA DE LA PASION
+  - Word: ALBARICOQUE
+  - Word: UVA
+  - Word: KAKI
+  - Word: CEREZA

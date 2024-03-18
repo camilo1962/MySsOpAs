@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Animales3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - O
+    - R
+    - I
+    - L
+    - A
+    - H
+    - N
+    - Y
+    - A
+  - Size: 10
+    Row:
+    - A
+    - O
+    - Z
+    - J
+    - A
+    - B
+    - A
+    - L
+    - I
+    - C
+  - Size: 10
+    Row:
+    - L
+    - B
+    - R
+    - D
+    - N
+    - G
+    - B
+    - A
+    - C
+    - O
+  - Size: 10
+    Row:
+    - L
+    - N
+    - A
+    - R
+    - E
+    - Z
+    - K
+    - R
+    - Q
+    - F
+  - Size: 10
+    Row:
+    - O
+    - I
+    - N
+    - J
+    - I
+    - N
+    - E
+    - T
+    - A
+    - P
+  - Size: 10
+    Row:
+    - C
+    - F
+    - I
+    - Z
+    - H
+    - O
+    - T
+    - M
+    - J
+    - A
+  - Size: 10
+    Row:
+    - A
+    - L
+    - L
+    - S
+    - T
+    - M
+    - N
+    - L
+    - E
+    - R
+  - Size: 10
+    Row:
+    - N
+    - E
+    - L
+    - Y
+    - F
+    - V
+    - J
+    - B
+    - V
+    - B
+  - Size: 10
+    Row:
+    - H
+    - D
+    - A
+    - I
+    - X
+    - B
+    - A
+    - "\xD1"
+    - O
+    - E
+  - Size: 10
+    Row:
+    - K
+    - A
+    - G
+    - G
+    - O
+    - O
+    - D
+    - R
+    - E
+    - C
+  SearchWords:
+  - Word: FOCA
+  - Word: GALLINA
+  - Word: GALLO
+  - Word: GORILA
+  - Word: HIENA
+  - Word: JABALI
+  - Word: JINETA
+  - Word: CERDO
+  - Word: OVEJA
+  - Word: CEBRA
+  - Word: DELFIN
+  - Word: GORRION

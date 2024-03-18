@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Animales2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - J
+    - P
+    - O
+    - R
+    - O
+    - T
+    - S
+    - A
+    - C
+  - Size: 10
+    Row:
+    - N
+    - X
+    - Y
+    - Q
+    - P
+    - M
+    - P
+    - Z
+    - G
+    - E
+  - Size: 10
+    Row:
+    - A
+    - A
+    - N
+    - C
+    - J
+    - A
+    - L
+    - R
+    - "\xD1"
+    - T
+  - Size: 10
+    Row:
+    - R
+    - A
+    - T
+    - O
+    - N
+    - H
+    - S
+    - D
+    - A
+    - N
+  - Size: 10
+    Row:
+    - A
+    - N
+    - N
+    - S
+    - E
+    - B
+    - O
+    - P
+    - "\xD1"
+    - A
+  - Size: 10
+    Row:
+    - I
+    - Q
+    - O
+    - P
+    - U
+    - L
+    - I
+    - R
+    - N
+    - F
+  - Size: 10
+    Row:
+    - R
+    - X
+    - J
+    - G
+    - E
+    - R
+    - J
+    - Q
+    - O
+    - E
+  - Size: 10
+    Row:
+    - T
+    - B
+    - E
+    - L
+    - E
+    - M
+    - O
+    - B
+    - O
+    - L
+  - Size: 10
+    Row:
+    - U
+    - M
+    - T
+    - O
+    - F
+    - Y
+    - A
+    - Z
+    - M
+    - E
+  - Size: 10
+    Row:
+    - N
+    - O
+    - Z
+    - O
+    - I
+    - R
+    - A
+    - N
+    - A
+    - C
+  SearchWords:
+  - Found: 0
+    Word: LEON
+  - Found: 0
+    Word: TEJON
+  - Found: 0
+    Word: TAPIR
+  - Found: 0
+    Word: SAPO
+  - Found: 0
+    Word: RANA
+  - Found: 0
+    Word: RATON
+  - Found: 0
+    Word: LORO
+  - Found: 0
+    Word: CANARIO
+  - Found: 0
+    Word: LOBO
+  - Found: 0
+    Word: NUTRIA
+  - Found: 0
+    Word: CASTOR
+  - Found: 0
+    Word: ELEFANTE

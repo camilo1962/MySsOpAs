@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Paises1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - P
+    - T
+    - I
+    - T
+    - I
+    - A
+    - H
+    - S
+  - Size: 8
+    Row:
+    - A
+    - O
+    - B
+    - U
+    - J
+    - R
+    - R
+    - A
+  - Size: 8
+    Row:
+    - F
+    - M
+    - L
+    - "\xD1"
+    - R
+    - G
+    - L
+    - M
+  - Size: 8
+    Row:
+    - J
+    - A
+    - P
+    - O
+    - N
+    - E
+    - A
+    - O
+  - Size: 8
+    Row:
+    - I
+    - L
+    - I
+    - M
+    - N
+    - L
+    - P
+    - A
+  - Size: 8
+    Row:
+    - U
+    - I
+    - E
+    - R
+    - P
+    - I
+    - H
+    - C
+  - Size: 8
+    Row:
+    - E
+    - S
+    - P
+    - A
+    - P
+    - A
+    - A
+    - O
+  - Size: 8
+    Row:
+    - A
+    - N
+    - G
+    - O
+    - L
+    - A
+    - F
+    - B
+  SearchWords:
+  - Word: ANGOLA
+  - Word: "ESPA\xD1A"
+  - Word: ARGELIA
+  - Word: JAPON
+  - Word: PERU
+  - Word: MALI
+  - Word: SAMOA
+  - Word: CHIPRE
+  - Word: HAITI
+  - Word: POLONIA

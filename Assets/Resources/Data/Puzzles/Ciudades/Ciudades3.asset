@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Ciudades3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - V
+    - T
+    - Z
+    - O
+    - R
+    - E
+    - N
+    - S
+    - E
+    - A
+  - Size: 10
+    Row:
+    - A
+    - A
+    - Z
+    - U
+    - O
+    - H
+    - H
+    - A
+    - C
+    - N
+  - Size: 10
+    Row:
+    - N
+    - P
+    - L
+    - C
+    - S
+    - S
+    - L
+    - C
+    - O
+    - O
+  - Size: 10
+    Row:
+    - O
+    - G
+    - O
+    - L
+    - U
+    - R
+    - C
+    - Z
+    - H
+    - G
+  - Size: 10
+    Row:
+    - R
+    - O
+    - N
+    - E
+    - A
+    - J
+    - Y
+    - M
+    - M
+    - A
+  - Size: 10
+    Row:
+    - E
+    - A
+    - R
+    - P
+    - I
+    - D
+    - S
+    - D
+    - X
+    - R
+  - Size: 10
+    Row:
+    - G
+    - T
+    - O
+    - L
+    - E
+    - D
+    - O
+    - E
+    - O
+    - R
+  - Size: 10
+    Row:
+    - N
+    - U
+    - "\xD1"
+    - J
+    - N
+    - O
+    - E
+    - L
+    - J
+    - A
+  - Size: 10
+    Row:
+    - M
+    - E
+    - L
+    - I
+    - L
+    - L
+    - A
+    - G
+    - I
+    - T
+  - Size: 10
+    Row:
+    - M
+    - C
+    - D
+    - U
+    - I
+    - X
+    - R
+    - J
+    - B
+    - D
+  SearchWords:
+  - Word: VALLADOLID
+  - Word: LEON
+  - Word: PARLA
+  - Word: TARRAGONA
+  - Word: JAEN
+  - Word: REUS
+  - Word: ORENSE
+  - Word: GERONA
+  - Word: MELILLA
+  - Word: CEUTA
+  - Word: TOLEDO

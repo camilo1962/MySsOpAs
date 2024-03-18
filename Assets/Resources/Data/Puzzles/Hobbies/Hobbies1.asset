@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Hobbies1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - Y
+    - M
+    - N
+    - S
+    - H
+    - D
+    - R
+    - G
+    - E
+  - Size: 9
+    Row:
+    - C
+    - U
+    - O
+    - E
+    - C
+    - U
+    - B
+    - V
+    - J
+  - Size: 9
+    Row:
+    - E
+    - E
+    - H
+    - F
+    - Z
+    - I
+    - H
+    - U
+    - A
+  - Size: 9
+    Row:
+    - R
+    - F
+    - T
+    - A
+    - C
+    - F
+    - M
+    - G
+    - L
+  - Size: 9
+    Row:
+    - A
+    - J
+    - M
+    - R
+    - B
+    - G
+    - F
+    - O
+    - O
+  - Size: 9
+    Row:
+    - M
+    - P
+    - O
+    - E
+    - E
+    - L
+    - V
+    - A
+    - C
+  - Size: 9
+    Row:
+    - I
+    - O
+    - L
+    - "\xD1"
+    - G
+    - R
+    - A
+    - C
+    - I
+  - Size: 9
+    Row:
+    - C
+    - A
+    - N
+    - T
+    - A
+    - R
+    - I
+    - R
+    - R
+  - Size: 9
+    Row:
+    - A
+    - B
+    - O
+    - N
+    - S
+    - A
+    - I
+    - A
+    - B
+  SearchWords:
+  - Word: CERAMICA
+  - Word: BUCEO
+  - Word: HABLAR
+  - Word: COMICS
+  - Word: CETRERIA
+  - Word: BONSAI
+  - Word: CANTAR
+  - Word: BUCEAR
+  - Word: BRICOLAJE

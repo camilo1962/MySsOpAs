@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Ciudades2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - A
+    - V
+    - I
+    - T
+    - O
+    - R
+    - I
+    - A
+    - P
+  - Size: 10
+    Row:
+    - V
+    - E
+    - L
+    - C
+    - H
+    - E
+    - Q
+    - K
+    - N
+    - A
+  - Size: 10
+    Row:
+    - S
+    - R
+    - D
+    - S
+    - H
+    - V
+    - T
+    - A
+    - I
+    - M
+  - Size: 10
+    Row:
+    - J
+    - U
+    - "\xD1"
+    - N
+    - I
+    - R
+    - E
+    - S
+    - P
+    - P
+  - Size: 10
+    Row:
+    - O
+    - N
+    - S
+    - G
+    - A
+    - K
+    - G
+    - A
+    - Z
+    - L
+  - Size: 10
+    Row:
+    - D
+    - F
+    - O
+    - G
+    - J
+    - T
+    - D
+    - R
+    - L
+    - O
+  - Size: 10
+    Row:
+    - E
+    - A
+    - G
+    - J
+    - "\xD1"
+    - R
+    - N
+    - R
+    - S
+    - N
+  - Size: 10
+    Row:
+    - I
+    - S
+    - R
+    - S
+    - I
+    - C
+    - J
+    - A
+    - D
+    - A
+  - Size: 10
+    Row:
+    - V
+    - V
+    - U
+    - S
+    - R
+    - G
+    - Z
+    - T
+    - S
+    - T
+  - Size: 10
+    Row:
+    - O
+    - R
+    - B
+    - G
+    - E
+    - R
+    - O
+    - N
+    - A
+    - U
+  SearchWords:
+  - Word: GERONA
+  - Word: VIGO
+  - Word: GIJON
+  - Word: VOTORIA
+  - Word: TARRASA
+  - Word: ELCHE
+  - Word: OVIEDO
+  - Word: PAMPLONA
+  - Word: BURGOS
+  - Word: SANTANDER

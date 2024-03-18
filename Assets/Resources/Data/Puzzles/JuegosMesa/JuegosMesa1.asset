@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: JuegosMesa1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - R
+    - E
+    - M
+    - I
+    - G
+    - I
+    - O
+    - T
+    - L
+    - N
+    - X
+    - P
+  - Size: 12
+    Row:
+    - S
+    - M
+    - Z
+    - U
+    - A
+    - C
+    - S
+    - I
+    - R
+    - B
+    - A
+    - P
+  - Size: 12
+    Row:
+    - O
+    - C
+    - M
+    - I
+    - H
+    - K
+    - U
+    - O
+    - N
+    - I
+    - J
+    - O
+  - Size: 12
+    Row:
+    - L
+    - H
+    - S
+    - I
+    - C
+    - E
+    - K
+    - J
+    - D
+    - C
+    - K
+    - N
+  - Size: 12
+    Row:
+    - L
+    - I
+    - A
+    - B
+    - O
+    - C
+    - S
+    - E
+    - G
+    - O
+    - Y
+    - U
+  - Size: 12
+    Row:
+    - I
+    - N
+    - G
+    - E
+    - P
+    - K
+    - M
+    - A
+    - H
+    - P
+    - Y
+    - I
+  - Size: 12
+    Row:
+    - U
+    - C
+    - Q
+    - T
+    - U
+    - Y
+    - J
+    - S
+    - B
+    - R
+    - C
+    - T
+  - Size: 12
+    Row:
+    - Q
+    - H
+    - I
+    - U
+    - E
+    - C
+    - Z
+    - E
+    - H
+    - E
+    - T
+    - N
+  - Size: 12
+    Row:
+    - N
+    - O
+    - E
+    - T
+    - Q
+    - A
+    - D
+    - S
+    - H
+    - K
+    - F
+    - I
+  - Size: 12
+    Row:
+    - I
+    - N
+    - E
+    - C
+    - "\xD1"
+    - Q
+    - "\xD1"
+    - I
+    - S
+    - C
+    - T
+    - E
+  - Size: 12
+    Row:
+    - C
+    - I
+    - M
+    - M
+    - C
+    - Z
+    - M
+    - N
+    - D
+    - O
+    - D
+    - V
+  - Size: 12
+    Row:
+    - S
+    - E
+    - N
+    - O
+    - Z
+    - A
+    - R
+    - O
+    - C
+    - P
+    - U
+    - R
+  SearchWords:
+  - Word: BRISCA
+  - Word: ASESINO
+  - Word: CHINCHON
+  - Word: CINQUILLO
+  - Word: VEINTIUNO
+  - Word: SIETEYMEDIA
+  - Word: POCHA
+  - Word: REMIGIO
+  - Word: POCKER
+  - Word: CORAZONES
+  - Word: ESCOBA
+  - Word: TUTE

@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Plantas2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - B
+    - M
+    - Q
+    - F
+    - A
+    - Z
+    - A
+    - L
+    - E
+    - A
+    - G
+    - E
+  - Size: 12
+    Row:
+    - Z
+    - O
+    - Z
+    - R
+    - S
+    - T
+    - Q
+    - H
+    - A
+    - K
+    - A
+    - A
+  - Size: 12
+    Row:
+    - R
+    - Z
+    - C
+    - O
+    - P
+    - K
+    - V
+    - E
+    - L
+    - H
+    - R
+    - Y
+  - Size: 12
+    Row:
+    - J
+    - F
+    - I
+    - A
+    - I
+    - L
+    - A
+    - D
+    - A
+    - A
+    - D
+    - "\xD1"
+  - Size: 12
+    Row:
+    - Z
+    - I
+    - V
+    - U
+    - D
+    - H
+    - N
+    - Q
+    - C
+    - R
+    - E
+    - H
+  - Size: 12
+    Row:
+    - F
+    - C
+    - E
+    - S
+    - I
+    - E
+    - K
+    - B
+    - I
+    - E
+    - N
+    - B
+  - Size: 12
+    Row:
+    - L
+    - U
+    - O
+    - E
+    - S
+    - "\xD1"
+    - D
+    - P
+    - N
+    - B
+    - I
+    - S
+  - Size: 12
+    Row:
+    - E
+    - S
+    - D
+    - Y
+    - T
+    - E
+    - Y
+    - R
+    - T
+    - R
+    - A
+    - H
+  - Size: 12
+    Row:
+    - V
+    - R
+    - A
+    - X
+    - R
+    - "\xD1"
+    - B
+    - S
+    - A
+    - E
+    - M
+    - D
+  - Size: 12
+    Row:
+    - A
+    - R
+    - P
+    - N
+    - A
+    - T
+    - S
+    - M
+    - P
+    - G
+    - P
+    - T
+  - Size: 12
+    Row:
+    - L
+    - I
+    - R
+    - G
+    - I
+    - "\xD1"
+    - J
+    - V
+    - G
+    - D
+    - O
+    - K
+  - Size: 12
+    Row:
+    - C
+    - I
+    - L
+    - A
+    - N
+    - T
+    - R
+    - O
+    - L
+    - S
+    - E
+    - N
+  SearchWords:
+  - Word: AZALEA
+  - Word: CLAVEL
+  - Word: CILANTRO
+  - Word: CINTA
+  - Word: DALIA
+  - Word: FICUS
+  - Word: HIEDRA
+  - Word: GERBERA
+  - Word: GARDENA
+  - Word: CALA
+  - Word: BOCA DE DRAGON
+  - Word: ASPIDISTRA

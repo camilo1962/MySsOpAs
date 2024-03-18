@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Comidas3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - "\xD1"
+    - U
+    - M
+    - O
+    - X
+    - F
+    - "\xD1"
+    - Y
+    - B
+  - Size: 10
+    Row:
+    - J
+    - A
+    - L
+    - E
+    - A
+    - O
+    - Q
+    - E
+    - F
+    - D
+  - Size: 10
+    Row:
+    - N
+    - "\xD1"
+    - T
+    - S
+    - J
+    - A
+    - M
+    - O
+    - N
+    - X
+  - Size: 10
+    Row:
+    - L
+    - M
+    - G
+    - A
+    - M
+    - B
+    - A
+    - S
+    - Z
+    - A
+  - Size: 10
+    Row:
+    - O
+    - R
+    - U
+    - L
+    - T
+    - O
+    - M
+    - A
+    - T
+    - E
+  - Size: 10
+    Row:
+    - C
+    - L
+    - I
+    - A
+    - U
+    - O
+    - B
+    - J
+    - T
+    - F
+  - Size: 10
+    Row:
+    - A
+    - A
+    - S
+    - M
+    - "\xD1"
+    - J
+    - U
+    - T
+    - B
+    - E
+  - Size: 10
+    Row:
+    - R
+    - D
+    - O
+    - I
+    - E
+    - D
+    - P
+    - I
+    - "\xD1"
+    - P
+  - Size: 10
+    Row:
+    - A
+    - G
+    - U
+    - S
+    - I
+    - O
+    - N
+    - A
+    - L
+    - F
+  - Size: 10
+    Row:
+    - C
+    - M
+    - E
+    - A
+    - O
+    - A
+    - B
+    - Q
+    - N
+    - E
+  SearchWords:
+  - Word: RATATOUILE
+  - Word: AJO
+  - Word: FLAN
+  - Word: TOMATE
+  - Word: SALAMI
+  - Word: PAN
+  - Word: JALEA
+  - Word: GAMBAS
+  - Word: GUISO
+  - Word: JUDIA
+  - Word: CARACOL
+  - Word: JAMON

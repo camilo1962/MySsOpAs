@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Ciudades1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - B
+    - A
+    - R
+    - C
+    - E
+    - L
+    - N
+    - A
+    - S
+    - B
+    - L
+    - R
+  - Size: 12
+    Row:
+    - G
+    - M
+    - R
+    - O
+    - T
+    - S
+    - H
+    - L
+    - A
+    - L
+    - V
+    - E
+  - Size: 12
+    Row:
+    - A
+    - V
+    - N
+    - R
+    - N
+    - L
+    - Q
+    - L
+    - M
+    - D
+    - A
+    - K
+  - Size: 12
+    Row:
+    - L
+    - D
+    - Y
+    - D
+    - A
+    - X
+    - T
+    - I
+    - L
+    - F
+    - L
+    - H
+  - Size: 12
+    Row:
+    - E
+    - I
+    - O
+    - O
+    - C
+    - C
+    - J
+    - V
+    - A
+    - E
+    - E
+    - A
+  - Size: 12
+    Row:
+    - N
+    - R
+    - Y
+    - B
+    - I
+    - B
+    - Z
+    - E
+    - P
+    - M
+    - N
+    - Z
+  - Size: 12
+    Row:
+    - Y
+    - D
+    - D
+    - A
+    - L
+    - I
+    - F
+    - S
+    - S
+    - D
+    - C
+    - O
+  - Size: 12
+    Row:
+    - A
+    - A
+    - B
+    - M
+    - A
+    - L
+    - A
+    - G
+    - A
+    - G
+    - I
+    - G
+  - Size: 12
+    Row:
+    - D
+    - M
+    - B
+    - H
+    - L
+    - B
+    - "\xD1"
+    - X
+    - L
+    - O
+    - A
+    - A
+  - Size: 12
+    Row:
+    - L
+    - G
+    - L
+    - X
+    - F
+    - A
+    - T
+    - M
+    - O
+    - D
+    - Q
+    - R
+  - Size: 12
+    Row:
+    - I
+    - N
+    - L
+    - A
+    - M
+    - O
+    - A
+    - S
+    - S
+    - H
+    - T
+    - A
+  - Size: 12
+    Row:
+    - F
+    - L
+    - K
+    - A
+    - P
+    - A
+    - I
+    - C
+    - R
+    - U
+    - M
+    - Z
+  SearchWords:
+  - Word: MADRID
+  - Word: BARCELONA
+  - Word: VALENCIA
+  - Word: SEVILLA
+  - Word: ZARAGOZA
+  - Word: MALAGA
+  - Word: MURCIA
+  - Word: PALMA
+  - Word: LASPALMAS
+  - Word: BILBAO
+  - Word: ALICANTE
+  - Word: CORDOBA

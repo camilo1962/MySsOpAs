@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Colores1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - A
+    - Z
+    - A
+    - T
+    - S
+    - O
+    - M
+    - L
+    - S
+    - K
+    - V
+    - J
+  - Size: 12
+    Row:
+    - Z
+    - L
+    - F
+    - X
+    - Z
+    - J
+    - L
+    - X
+    - F
+    - E
+    - O
+    - H
+  - Size: 12
+    Row:
+    - Q
+    - N
+    - E
+    - G
+    - R
+    - O
+    - M
+    - X
+    - R
+    - F
+    - O
+    - M
+  - Size: 12
+    Row:
+    - B
+    - B
+    - C
+    - U
+    - "\xD1"
+    - R
+    - S
+    - D
+    - C
+    - T
+    - E
+    - A
+  - Size: 12
+    Row:
+    - A
+    - D
+    - S
+    - I
+    - R
+    - G
+    - E
+    - N
+    - "\xD1"
+    - Y
+    - Z
+    - G
+  - Size: 12
+    Row:
+    - M
+    - Z
+    - H
+    - D
+    - T
+    - I
+    - G
+    - M
+    - A
+    - Q
+    - P
+    - E
+  - Size: 12
+    Row:
+    - A
+    - Z
+    - U
+    - L
+    - M
+    - V
+    - C
+    - "\xD1"
+    - D
+    - H
+    - S
+    - N
+  - Size: 12
+    Row:
+    - R
+    - G
+    - E
+    - C
+    - A
+    - I
+    - P
+    - K
+    - N
+    - N
+    - Y
+    - T
+  - Size: 12
+    Row:
+    - I
+    - T
+    - X
+    - E
+    - A
+    - P
+    - K
+    - A
+    - A
+    - T
+    - K
+    - A
+  - Size: 12
+    Row:
+    - L
+    - L
+    - L
+    - N
+    - I
+    - O
+    - A
+    - N
+    - V
+    - Q
+    - U
+    - A
+  - Size: 12
+    Row:
+    - L
+    - B
+    - U
+    - J
+    - G
+    - N
+    - I
+    - O
+    - A
+    - D
+    - K
+    - H
+  - Size: 12
+    Row:
+    - O
+    - "\xD1"
+    - S
+    - R
+    - O
+    - C
+    - N
+    - A
+    - L
+    - B
+    - G
+    - H
+  SearchWords:
+  - Word: ROJO
+  - Word: VERDE
+  - Word: AZUL
+  - Word: AMARILLO
+  - Word: CIAN
+  - Word: MAGENTA
+  - Word: BLANCO
+  - Word: NEGRO
+  - Word: GRIS
+  - Word: LAVANDA
+  - Word: MOSTAZA
+  - Word: CIRUELA

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Tacos1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - N
+    - Y
+    - H
+    - M
+    - T
+    - S
+    - S
+    - "\xD1"
+    - Q
+    - N
+  - Size: 10
+    Row:
+    - O
+    - O
+    - A
+    - U
+    - G
+    - O
+    - A
+    - D
+    - D
+    - O
+  - Size: 10
+    Row:
+    - R
+    - T
+    - M
+    - T
+    - D
+    - J
+    - T
+    - R
+    - F
+    - C
+  - Size: 10
+    Row:
+    - B
+    - D
+    - "\xD1"
+    - A
+    - U
+    - I
+    - U
+    - E
+    - H
+    - I
+  - Size: 10
+    Row:
+    - A
+    - S
+    - K
+    - G
+    - M
+    - P
+    - P
+    - D
+    - N
+    - R
+  - Size: 10
+    Row:
+    - C
+    - N
+    - L
+    - C
+    - V
+    - D
+    - O
+    - O
+    - A
+    - A
+  - Size: 10
+    Row:
+    - L
+    - V
+    - O
+    - D
+    - E
+    - R
+    - L
+    - J
+    - P
+    - M
+  - Size: 10
+    Row:
+    - C
+    - N
+    - L
+    - M
+    - J
+    - Z
+    - U
+    - B
+    - I
+    - A
+  - Size: 10
+    Row:
+    - O
+    - M
+    - P
+    - L
+    - A
+    - Q
+    - H
+    - N
+    - Q
+    - H
+  - Size: 10
+    Row:
+    - O
+    - G
+    - A
+    - C
+    - E
+    - M
+    - C
+    - V
+    - Z
+    - H
+  SearchWords:
+  - Word: MAMON
+  - Word: MARICON
+  - Word: CHULOPUTAS
+  - Word: HIJOPUTA
+  - Word: CABRON
+  - Word: MAMONA
+  - Word: PIJO
+  - Word: "CO\xD1O"
+  - Word: JODER
+  - Word: MECAGO

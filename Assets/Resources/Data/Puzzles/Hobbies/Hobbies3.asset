@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Hobbies3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - A
+    - J
+    - Q
+    - Q
+    - F
+    - D
+    - L
+    - D
+  - Size: 8
+    Row:
+    - T
+    - P
+    - I
+    - N
+    - T
+    - A
+    - R
+    - T
+  - Size: 8
+    Row:
+    - R
+    - Q
+    - R
+    - E
+    - R
+    - R
+    - O
+    - C
+  - Size: 8
+    Row:
+    - A
+    - R
+    - L
+    - E
+    - E
+    - R
+    - D
+    - Z
+  - Size: 8
+    Row:
+    - L
+    - A
+    - D
+    - O
+    - N
+    - G
+    - J
+    - Y
+  - Size: 8
+    Row:
+    - I
+    - G
+    - Z
+    - R
+    - A
+    - D
+    - N
+    - A
+  - Size: 8
+    Row:
+    - A
+    - U
+    - V
+    - R
+    - E
+    - J
+    - E
+    - T
+  - Size: 8
+    Row:
+    - B
+    - J
+    - "\xD1"
+    - O
+    - U
+    - O
+    - R
+    - R
+  SearchWords:
+  - Word: PINTAR
+  - Word: BAILAR
+  - Word: CORRER
+  - Word: ANDAR
+  - Word: LEER
+  - Word: JUGAR
+  - Word: APRENDER
+  - Word: TEJER

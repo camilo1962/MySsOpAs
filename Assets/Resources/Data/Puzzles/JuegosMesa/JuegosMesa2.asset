@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: JuegosMesa2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - T
+    - W
+    - I
+    - S
+    - T
+    - E
+    - R
+    - R
+    - E
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - R
+    - O
+    - A
+    - Q
+    - X
+    - Z
+    - E
+    - F
+    - G
+  - Size: 10
+    Row:
+    - T
+    - O
+    - A
+    - G
+    - O
+    - "\xD1"
+    - K
+    - O
+    - I
+    - Y
+  - Size: 10
+    Row:
+    - C
+    - P
+    - J
+    - G
+    - B
+    - T
+    - "\xD1"
+    - L
+    - L
+    - H
+  - Size: 10
+    Row:
+    - E
+    - "\xD1"
+    - E
+    - E
+    - A
+    - Y
+    - E
+    - E
+    - F
+    - J
+  - Size: 10
+    Row:
+    - N
+    - L
+    - D
+    - M
+    - N
+    - B
+    - S
+    - S
+    - O
+    - P
+  - Size: 10
+    Row:
+    - O
+    - O
+    - R
+    - J
+    - M
+    - G
+    - O
+    - U
+    - E
+    - R
+  - Size: 10
+    Row:
+    - C
+    - T
+    - E
+    - N
+    - M
+    - R
+    - A
+    - L
+    - M
+    - I
+  - Size: 10
+    Row:
+    - Z
+    - L
+    - Z
+    - Z
+    - S
+    - S
+    - A
+    - M
+    - A
+    - D
+  - Size: 10
+    Row:
+    - S
+    - O
+    - C
+    - R
+    - A
+    - B
+    - K
+    - J
+    - G
+    - S
+  SearchWords:
+  - Word: JENGA
+  - Word: CONECTA
+  - Word: GO
+  - Word: TRAGABOLAS
+  - Word: AJEDREZ
+  - Word: DAMAS
+  - Word: GAMEOFLIFE
+  - Word: TWISTER
+  - Word: BARCOS
+  - Word: MUS

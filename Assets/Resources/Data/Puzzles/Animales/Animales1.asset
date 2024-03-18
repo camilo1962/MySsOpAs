@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Animales1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 5
+  Rows: 5
+  Board:
+  - Size: 5
+    Row:
+    - Z
+    - V
+    - K
+    - N
+    - O
+  - Size: 5
+    Row:
+    - Y
+    - R
+    - N
+    - R
+    - T
+  - Size: 5
+    Row:
+    - Z
+    - O
+    - R
+    - Q
+    - F
+  - Size: 5
+    Row:
+    - U
+    - E
+    - E
+    - E
+    - S
+  - Size: 5
+    Row:
+    - P
+    - "\xD1"
+    - Y
+    - "\xD1"
+    - P
+  SearchWords:
+  - Found: 0
+    Word: PERRO

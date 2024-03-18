@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Plantas1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - C
+    - A
+    - H
+    - A
+    - B
+    - L
+    - A
+    - C
+    - A
+  - Size: 10
+    Row:
+    - I
+    - L
+    - S
+    - L
+    - M
+    - P
+    - L
+    - I
+    - M
+    - E
+  - Size: 10
+    Row:
+    - A
+    - C
+    - L
+    - D
+    - Z
+    - O
+    - Z
+    - N
+    - G
+    - T
+  - Size: 10
+    Row:
+    - "\xD1"
+    - S
+    - G
+    - I
+    - E
+    - C
+    - X
+    - I
+    - N
+    - A
+  - Size: 10
+    Row:
+    - K
+    - X
+    - O
+    - G
+    - V
+    - T
+    - C
+    - C
+    - H
+    - L
+  - Size: 10
+    Row:
+    - D
+    - P
+    - I
+    - R
+    - "\xD1"
+    - N
+    - D
+    - I
+    - N
+    - A
+  - Size: 10
+    Row:
+    - P
+    - N
+    - A
+    - C
+    - E
+    - R
+    - A
+    - L
+    - U
+    - C
+  - Size: 10
+    Row:
+    - P
+    - E
+    - T
+    - U
+    - N
+    - I
+    - A
+    - G
+    - L
+    - E
+  - Size: 10
+    Row:
+    - O
+    - H
+    - C
+    - E
+    - L
+    - E
+    - H
+    - U
+    - U
+    - O
+  - Size: 10
+    Row:
+    - D
+    - R
+    - A
+    - C
+    - E
+    - N
+    - A
+    - L
+    - N
+    - B
+  SearchWords:
+  - Word: PETUNIA
+  - Word: BUGANVILLA
+  - Word: ROSA
+  - Word: GLICINIA
+  - Word: ALBAHACA
+  - Word: ALOE
+  - Word: ARECA
+  - Word: HELECHO
+  - Word: DRACENA
+  - Word: CALATEA

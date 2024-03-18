@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Frutas2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - I
+    - A
+    - R
+    - L
+    - D
+    - "\xD1"
+    - F
+    - B
+    - Z
+    - E
+  - Size: 10
+    Row:
+    - H
+    - Z
+    - H
+    - C
+    - E
+    - R
+    - E
+    - Z
+    - A
+    - G
+  - Size: 10
+    Row:
+    - C
+    - R
+    - E
+    - U
+    - T
+    - K
+    - K
+    - N
+    - P
+    - R
+  - Size: 10
+    Row:
+    - T
+    - A
+    - N
+    - S
+    - A
+    - I
+    - I
+    - I
+    - Q
+    - O
+  - Size: 10
+    Row:
+    - I
+    - Z
+    - B
+    - H
+    - C
+    - R
+    - W
+    - S
+    - R
+    - S
+  - Size: 10
+    Row:
+    - L
+    - R
+    - O
+    - "\xD1"
+    - A
+    - G
+    - I
+    - P
+    - S
+    - E
+  - Size: 10
+    Row:
+    - V
+    - X
+    - G
+    - D
+    - U
+    - Q
+    - F
+    - E
+    - I
+    - L
+  - Size: 10
+    Row:
+    - D
+    - S
+    - N
+    - Q
+    - G
+    - F
+    - L
+    - R
+    - C
+    - L
+  - Size: 10
+    Row:
+    - S
+    - A
+    - A
+    - E
+    - A
+    - G
+    - Z
+    - O
+    - C
+    - A
+  - Size: 10
+    Row:
+    - M
+    - U
+    - M
+    - O
+    - R
+    - A
+    - C
+    - A
+    - I
+    - L
+  SearchWords:
+  - Word: GROSELLA
+  - Word: ZARZA
+  - Word: MORA
+  - Word: MANDARINA
+  - Word: AGUACATE
+  - Word: KIWI
+  - Word: LITCHI
+  - Word: MANGO
+  - Word: CEREZA
+  - Word: NISPERO

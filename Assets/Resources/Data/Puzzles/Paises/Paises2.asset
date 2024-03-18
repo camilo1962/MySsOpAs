@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Paises2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - O
+    - M
+    - A
+    - L
+    - I
+    - A
+    - Z
+    - Z
+    - U
+  - Size: 10
+    Row:
+    - O
+    - U
+    - T
+    - "\xD1"
+    - L
+    - T
+    - N
+    - E
+    - E
+    - G
+  - Size: 10
+    Row:
+    - G
+    - S
+    - D
+    - N
+    - Y
+    - L
+    - M
+    - N
+    - X
+    - A
+  - Size: 10
+    Row:
+    - A
+    - A
+    - F
+    - A
+    - G
+    - G
+    - S
+    - U
+    - F
+    - N
+  - Size: 10
+    Row:
+    - I
+    - I
+    - M
+    - "\xD1"
+    - N
+    - G
+    - E
+    - T
+    - A
+    - D
+  - Size: 10
+    Row:
+    - N
+    - B
+    - I
+    - P
+    - O
+    - L
+    - O
+    - N
+    - I
+    - A
+  - Size: 10
+    Row:
+    - A
+    - R
+    - J
+    - "\xD1"
+    - H
+    - P
+    - G
+    - "\xD1"
+    - S
+    - F
+  - Size: 10
+    Row:
+    - R
+    - E
+    - E
+    - C
+    - I
+    - L
+    - E
+    - B
+    - U
+    - T
+  - Size: 10
+    Row:
+    - C
+    - S
+    - P
+    - P
+    - H
+    - E
+    - R
+    - F
+    - R
+    - D
+  - Size: 10
+    Row:
+    - U
+    - K
+    - G
+    - L
+    - A
+    - G
+    - E
+    - N
+    - E
+    - S
+  SearchWords:
+  - Word: POLONIA
+  - Word: UGANDA
+  - Word: UCRANIA
+  - Word: RUSIA
+  - Word: TUNEZ
+  - Word: SENEGAL
+  - Word: SOMALIA
+  - Word: SUDAN
+  - Word: SERBIA
+  - Word: BELICE
+  - Word: SAMOA

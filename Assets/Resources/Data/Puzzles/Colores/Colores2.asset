@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Colores2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - D
+    - O
+    - M
+    - P
+    - A
+    - A
+    - D
+    - D
+    - P
+  - Size: 10
+    Row:
+    - G
+    - Q
+    - L
+    - S
+    - U
+    - V
+    - L
+    - "\xD1"
+    - C
+    - T
+  - Size: 10
+    Row:
+    - I
+    - E
+    - I
+    - O
+    - R
+    - D
+    - I
+    - U
+    - N
+    - B
+  - Size: 10
+    Row:
+    - E
+    - I
+    - V
+    - D
+    - P
+    - B
+    - L
+    - O
+    - D
+    - Y
+  - Size: 10
+    Row:
+    - B
+    - R
+    - A
+    - A
+    - U
+    - T
+    - R
+    - G
+    - H
+    - E
+  - Size: 10
+    Row:
+    - P
+    - O
+    - C
+    - R
+    - R
+    - R
+    - O
+    - S
+    - A
+    - M
+  - Size: 10
+    Row:
+    - D
+    - S
+    - F
+    - O
+    - A
+    - I
+    - S
+    - C
+    - U
+    - F
+  - Size: 10
+    Row:
+    - N
+    - A
+    - K
+    - M
+    - P
+    - M
+    - L
+    - N
+    - P
+    - A
+  - Size: 10
+    Row:
+    - "\xD1"
+    - D
+    - S
+    - Y
+    - N
+    - O
+    - M
+    - L
+    - A
+    - S
+  - Size: 10
+    Row:
+    - O
+    - O
+    - A
+    - V
+    - L
+    - A
+    - M
+    - I
+    - S
+    - "\xD1"
+  SearchWords:
+  - Word: MORADO
+  - Word: MARRON
+  - Word: SALMON
+  - Word: BEIGE
+  - Word: ROSA
+  - Word: OLIVA
+  - Word: LILA
+  - Word: OCRE
+  - Word: FUCSIA
+  - Word: ROSADO
+  - Word: MALVA
+  - Word: PURPURA

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Hobbies2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - C
+    - H
+    - E
+    - G
+    - T
+    - Y
+    - J
+    - H
+    - R
+  - Size: 9
+    Row:
+    - B
+    - O
+    - R
+    - D
+    - A
+    - R
+    - X
+    - E
+    - R
+  - Size: 9
+    Row:
+    - A
+    - F
+    - L
+    - Y
+    - N
+    - H
+    - S
+    - Q
+    - A
+  - Size: 9
+    Row:
+    - J
+    - X
+    - T
+    - E
+    - J
+    - O
+    - R
+    - F
+    - J
+  - Size: 9
+    Row:
+    - E
+    - F
+    - O
+    - K
+    - C
+    - S
+    - A
+    - I
+    - A
+  - Size: 9
+    Row:
+    - D
+    - J
+    - C
+    - R
+    - J
+    - C
+    - S
+    - S
+    - I
+  - Size: 9
+    Row:
+    - R
+    - S
+    - A
+    - R
+    - A
+    - R
+    - I
+    - M
+    - V
+  - Size: 9
+    Row:
+    - E
+    - T
+    - R
+    - O
+    - V
+    - H
+    - S
+    - O
+    - C
+  - Size: 9
+    Row:
+    - Z
+    - V
+    - O
+    - H
+    - T
+    - J
+    - S
+    - E
+    - N
+  SearchWords:
+  - Word: COLECCION
+  - Word: COSER
+  - Word: BORDAR
+  - Word: VIAJAR
+  - Word: TOCAR
+  - Word: MIRAR
+  - Word: AJEDREZ
+  - Word: SISAR

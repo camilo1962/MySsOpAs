@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Plantas3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - O
+    - I
+    - R
+    - U
+    - T
+    - N
+    - A
+    - R
+    - H
+    - G
+  - Size: 10
+    Row:
+    - C
+    - R
+    - O
+    - T
+    - O
+    - N
+    - I
+    - R
+    - N
+    - E
+  - Size: 10
+    Row:
+    - S
+    - F
+    - A
+    - D
+    - Z
+    - X
+    - N
+    - X
+    - F
+    - R
+  - Size: 10
+    Row:
+    - I
+    - L
+    - T
+    - A
+    - E
+    - A
+    - O
+    - R
+    - C
+    - A
+  - Size: 10
+    Row:
+    - B
+    - L
+    - E
+    - G
+    - G
+    - X
+    - E
+    - Z
+    - A
+    - N
+  - Size: 10
+    Row:
+    - I
+    - O
+    - L
+    - O
+    - T
+    - O
+    - P
+    - M
+    - I
+    - I
+  - Size: 10
+    Row:
+    - H
+    - I
+    - O
+    - M
+    - M
+    - E
+    - E
+    - N
+    - E
+    - O
+  - Size: 10
+    Row:
+    - L
+    - R
+    - I
+    - L
+    - Y
+    - N
+    - S
+    - O
+    - F
+    - C
+  - Size: 10
+    Row:
+    - K
+    - I
+    - V
+    - Y
+    - T
+    - H
+    - C
+    - Q
+    - C
+    - X
+  - Size: 10
+    Row:
+    - C
+    - L
+    - L
+    - A
+    - D
+    - N
+    - A
+    - V
+    - A
+    - L
+  SearchWords:
+  - Word: HIBISCO
+  - Word: LIRIO
+  - Word: MENTA
+  - Word: VIOLETA
+  - Word: POTO
+  - Word: PEONIA
+  - Word: LAVANDA
+  - Word: GERANIO
+  - Word: CROTON
+  - Word: ANTURIO

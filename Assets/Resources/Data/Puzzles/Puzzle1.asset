@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - P
+    - O
+    - L
+    - L
+    - A
+    - Z
+    - "\xD1"
+    - E
+    - F
+    - G
+  - Size: 10
+    Row:
+    - V
+    - I
+    - "\xD1"
+    - J
+    - M
+    - J
+    - S
+    - K
+    - Y
+    - L
+  - Size: 10
+    Row:
+    - "\xD1"
+    - "\xD1"
+    - C
+    - E
+    - D
+    - O
+    - O
+    - K
+    - V
+    - X
+  - Size: 10
+    Row:
+    - S
+    - D
+    - F
+    - H
+    - M
+    - P
+    - O
+    - J
+    - P
+    - F
+  - Size: 10
+    Row:
+    - Q
+    - V
+    - U
+    - A
+    - A
+    - I
+    - R
+    - J
+    - P
+    - Y
+  - Size: 10
+    Row:
+    - N
+    - T
+    - T
+    - C
+    - M
+    - X
+    - E
+    - S
+    - B
+    - O
+  - Size: 10
+    Row:
+    - M
+    - S
+    - C
+    - O
+    - O
+    - R
+    - M
+    - R
+    - H
+    - C
+  - Size: 10
+    Row:
+    - E
+    - L
+    - D
+    - O
+    - N
+    - Y
+    - Q
+    - E
+    - D
+    - Z
+  - Size: 10
+    Row:
+    - H
+    - A
+    - C
+    - I
+    - E
+    - N
+    - D
+    - O
+    - R
+    - A
+  - Size: 10
+    Row:
+    - "\xD1"
+    - S
+    - Q
+    - M
+    - D
+    - "\xD1"
+    - E
+    - Q
+    - M
+    - H
+  SearchWords:
+  - Word: POLLA
+  - Word: PICHA
+  - Word: CABRON
+  - Word: MIERDA
+  - Word: CARAMELO
+  - Word: 'NOSE '
+  - Word: MAMON
+  - Word: ESTAMOS
+  - Word: HACIENDO
+  - Word: AQUI
+  - Word: "NO\xD1O"
+  - Word: "\xD1O\xD1O"
+  - Word: TENER
+  - Word: TENER

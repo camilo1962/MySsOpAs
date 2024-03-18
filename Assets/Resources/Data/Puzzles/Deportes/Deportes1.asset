@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafc2c6a90ab748e9888ce0f23781e60, type: 3}
+  m_Name: Deportes1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - "\xD1"
+    - S
+    - B
+    - U
+    - M
+    - O
+    - Y
+    - D
+    - O
+  - Size: 10
+    Row:
+    - A
+    - O
+    - Y
+    - U
+    - I
+    - S
+    - M
+    - A
+    - S
+    - T
+  - Size: 10
+    Row:
+    - L
+    - N
+    - B
+    - Z
+    - R
+    - A
+    - S
+    - F
+    - A
+    - S
+  - Size: 10
+    Row:
+    - O
+    - T
+    - I
+    - S
+    - R
+    - F
+    - I
+    - A
+    - R
+    - E
+  - Size: 10
+    Row:
+    - N
+    - Q
+    - I
+    - C
+    - L
+    - J
+    - L
+    - O
+    - E
+    - C
+  - Size: 10
+    Row:
+    - M
+    - F
+    - H
+    - O
+    - D
+    - E
+    - C
+    - D
+    - T
+    - N
+  - Size: 10
+    Row:
+    - A
+    - A
+    - G
+    - Y
+    - V
+    - C
+    - I
+    - S
+    - L
+    - O
+  - Size: 10
+    Row:
+    - N
+    - B
+    - O
+    - G
+    - X
+    - V
+    - C
+    - G
+    - A
+    - L
+  - Size: 10
+    Row:
+    - O
+    - T
+    - G
+    - I
+    - H
+    - M
+    - G
+    - B
+    - H
+    - A
+  - Size: 10
+    Row:
+    - R
+    - I
+    - N
+    - O
+    - L
+    - H
+    - T
+    - A
+    - I
+    - B
+  SearchWords:
+  - Word: BOBSLEIGH
+  - Word: CICLISMO
+  - Word: HALTERAS
+  - Word: GOLF
+  - Word: SURF
+  - Word: BALONMANO
+  - Word: BALONCESTO
+  - Word: VELA
+  - Word: BIATHLON
+  - Word: MARCHA
